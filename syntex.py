@@ -2,7 +2,7 @@
 # for loop
 
 for i in range (1, 5):
-    print(i) # This output is : 1 2 3 4
+    print(i) # This output is : 1\n 2\n 3\n 4
 
 for i in range (1,5):
     print(i, end=' ')
