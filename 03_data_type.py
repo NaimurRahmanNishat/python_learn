@@ -13,7 +13,7 @@ height = 6.7
 print(type(name))
 print(type(age))
 print(type(height))
-# Output is: <class 'str'> \n <class 'int'> \n <class 'float'>
+# Output is: <class 'str'> \n <class 'int'> \n <class 'float'>  ( \n means new line)
 
 # convert integer to string
 name = "Nishat"

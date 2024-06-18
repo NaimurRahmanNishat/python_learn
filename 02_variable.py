@@ -10,7 +10,7 @@ print(3+2)  # no variable diclare.
 
 print(3+2) 
 print((3+2)+5)
-# Output is: 5\n 10 
+# Output is: 5 \n 10   ( \n means new line)
 
 # Declare variable.
 number = 3+2     # number is variable.
