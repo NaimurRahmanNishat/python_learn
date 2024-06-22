@@ -39,3 +39,10 @@ elif len(number)<11:
 elif len(number)==11:
     print("Thank you,",number)   # 01568450889
 # Output is: Thank you, 01568450889
+
+number = int (input("Input the number: "))       # 5
+if (number % 2 == 0):
+    print(f"{number} it is an Even number")
+else:
+    print(f"{number} it is an Odd number")
+# Output is: 5 it is an Odd number
