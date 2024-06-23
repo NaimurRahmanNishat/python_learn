@@ -1,3 +1,5 @@
+# python list is a one kind of array. python list and array almost similar.
+
 # animal_list = ["tiger", "lion", "cat", "dog", "rabbit"]
 # print(animal_list)
 # # Outpurt is: ['tiger', 'lion', 'cat', 'dog', 'rabbit']
