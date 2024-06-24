@@ -1,4 +1,4 @@
-# python list is a one kind of array. python list and array almost similar.
+# python list is a one kind of array. python list and array almost similar. list indicate system is [This is list]. Set is third braket.
 
 animal_list = ["tiger", "lion", "cat", "dog", "rabbit"]
 print(animal_list)

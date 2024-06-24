@@ -1,3 +1,5 @@
+# tuple indicate system is (This is tuple). tuple is first braket.
+
 name = (1, 2, 3, 4, 5)          # initialize the tuple.
 convert_list = list(name)       # tuple convert the list. Using list method.
 convert_list [2] = 45           # list index number set.
