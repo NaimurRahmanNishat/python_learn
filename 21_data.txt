@@ -1,0 +1,28 @@
+Bit and byte appear to be very similar terms but there is a vast difference between them.
+They are the units that are used in computers. It is used in deciding the speed of data 
+transmission between CPU and register, RAM and CPU, and so on. At the same time, it also 
+decides the speed with which data is received in networking. 
+
+Example: 2Mbps or 1Gbps.
+
+
+Bit
+Bit is the smallest unit of the computer. It is usually represented with digits 0 and 1.
+
+    a "bit" is atomic: the smallest unit of storage
+    A bit stores just a 0 or 1
+    "In the computer it's all 0's and 1's" ... bits
+    Anything with two separate states can store 1 bit
+    In a chip: electric charge = 0/1
+    In a hard drive: spots of North/South magnetism = 0/1
+    A bit is too small to be much use
+    Group 8 bits together to make 1 byte 
+
+
+Byte
+Byte is made of 8 bits. It is used in determining the system storage. Byte is the most common 
+term used in computing. It is used to represent 2^8 = 256 different values. 
+
+    One byte = collection of 8 bits
+    e.g. 0 1 0 1 1 0 1 0
+    One byte can store one character, e.g. 'A' or 'x' or '$' 
